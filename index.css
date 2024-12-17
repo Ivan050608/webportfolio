@@ -1,0 +1,52 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+body {
+	background: rgba(0, 51, 99, 1);
+}
+
+h1,h3,h5 {
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 32px;
+
+	color: #12C6FF;
+}
+
+p {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+label {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+footer {
+
+}
+
+iframe {
+	width: 50vw;
+	height: 50vh;
+	border: 0;
+}
+
+.background {
+	height: 25%; 
+}
